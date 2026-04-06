@@ -1,3 +1,4 @@
+//function declare, derive, choose intial, x(n+1)=xn-f(xn)/f'(x0)
 #include <iostream>
 #include <cmath>
 using namespace std;
