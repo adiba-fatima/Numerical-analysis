@@ -1,3 +1,4 @@
+//convert x to g(x) then x(n+1)=g(xn)
 #include <iostream>
 #include <cmath>
 using namespace std;
