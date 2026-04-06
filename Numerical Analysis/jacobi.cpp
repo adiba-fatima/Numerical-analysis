@@ -1,3 +1,4 @@
+//iterative form, intial =0, loop
 #include <iostream>
 using namespace std;
 int main()
